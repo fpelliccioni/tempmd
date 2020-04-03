@@ -104,6 +104,8 @@ Knuth provides internal support for second level protocol including full indexat
 ### Modularization
 Knuth is built following an architecture completely modular. Furthermore, each module is a library that can be used independently or together with the other libraries forming what we call “the node”. This, in addition to the usability advantage, adds a neat and readable code organization that follows the single-responsibility principle, and more importantly any protocol change can be introduced in Knuth much faster and more efficiently than in any other implementation.
 
+![ModularArchitecture](http://kth.cash/images/knuth-architecture.png)
+
 The main modules are:
 
 - **Secp256k1**: Optimized C library for ECDSA signatures and private/public key operations on curve secp256k1.
