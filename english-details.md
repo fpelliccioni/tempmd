@@ -284,7 +284,7 @@ Our website and read.cash account are the intended channels for official communi
 website: [kth.cash](http://kth.cash/)  
 github: [github.com/k-nuth/kth](https://github.com/k-nuth/kth)  
 email: [info@kth.cash](mailto:info@kth.cash)  
-telegram: [invitation link](https://t.me/knuth_cash)  
+telegram: [t.me/knuth_cash](https://t.me/knuth_cash)  
 read.cash:  [read.cash/@kth](https://read.cash/@kth)  
 slack: [k-nuth.slack.com](https://k-nuth.slack.com/)
 
