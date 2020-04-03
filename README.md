@@ -1,4 +1,10 @@
-# Knuth node Flipstarter campaign
+# Knuth node Flipstarter Campaign
+
+Version: 0.4
+
+Revision Date: 03 April 2020
+
+---
 
 # Index
 1. [Introduction](#1-introduction)
@@ -12,6 +18,8 @@
 9. [Accountability](#9-accountability)
 10. [Funding and Revenue Streams](#10-funding-and-revenue-streams)
 11. [Team](#11-team)
+
+---
 
 # 1. Introduction
 Our vision is to bring Bitcoin Cash to everyday life. Our proposition to do so is by building a monetary platform which offers one service and one service only —money, in the form of electronic cash.
