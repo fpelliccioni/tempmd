@@ -288,8 +288,7 @@ telegram: [invitation link](https://t.me/knuth_cash)
 read.cash:  [read.cash/@kth](https://read.cash/@kth)  
 slack: [k-nuth.slack.com](https://k-nuth.slack.com/)
 
-
-### User Relationship
+### User Relationships
 We would like to have a fluid relationship with our users, with other node implementations and with the community in general, where under the precepts of collaboration and co-creation we can lay the foundations for a lasting professional relationship.
 
 We want to be particularly present for the new developers of the ecosystem. We want to grow with them onboard, learn and find solutions together. Knuth was designed with them in consideration and that path will not be abandoned but motivated. 
