@@ -13,3 +13,4 @@ Revision Date: 03 April 2020
 
 # Abstract
 
+![Logo](http://kth.cash/images/knuth-logo.png)
