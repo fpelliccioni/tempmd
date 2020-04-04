@@ -252,7 +252,7 @@ Although these two factors do not demoralize us - because we are certain we are 
 
 We are clear about the costs of a project of this sort. We are very clear about the international rate of senior software developers, as well as the costs of doing business and driving an organization forward. But we are also very clear about the situation that Bitcoin Cash is going through, and in Knuth, we do not feel comfortable imposing an extra burden. But it is also true we are keen to show the potential of our work and our solution, and mainly collaborate with the community.
 
-For all these reasons, we have decided to present a limited campaign in terms of deliverables and financial resources. The budget that we are requesting for the 960 man-hours of work is USD 50,000 (BCH 230 at the time of writing).
+For all these reasons, we have decided to present a limited campaign in terms of deliverables and financial resources. The budget that we are requesting for the 960 man-hours of work is USD 50,000 (BCH 230 at the time of writing) that we know is way below international standards.
 
 This is our way of collaborating in times of crisis, of showing our value, of starting small to grow afterward as strong as possible. Give us the opportunity to prove it.
 
