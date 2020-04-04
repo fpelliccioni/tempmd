@@ -243,6 +243,8 @@ When making their respective pledges to Knuth project, contributors may add as c
 
 Given this proposed methodology, it is difficult for us at this time to present a list of deliverables under a fixed schedule. But we believe this is an excellent method that provides the community with an exciting space for participation. Our funders will be able to express their opinions concerning what task they would prefer to see first materialized clearly and transparently.
 
+![Tasks](http://kth.cash/images/knuth-tasks.png)
+
 In parallel, there are other associated tasks and activities that we do not consider relevant to be included exhaustively in this document, nor were they independently accounted for at the time of making a budget that makes sense. These activities are related to the preparation of the Flipstarter campaign, website update, node bug fixing and maintenance, release management, devops, small equipment, and minor expenses.
 
 # 6. Budget
