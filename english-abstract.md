@@ -1,19 +1,4 @@
-# Knuth node Flipstarter Campaign
-
-Version: 0.5
-
-Revision Date: 03 April 2020
-
-### Authors: 
-
-- Leandro Di Marco, [leandro@kth.cash](mailto:leandro@kth.cash)
-- Fernando Pelliccioni, [fernando@kth.cash](mailto:fernando@kth.cash)
-
----
-
 # Abstract
-
-![Logo](http://kth.cash/images/knuth-logo.png)
 
 Knuth envisions bringing Bitcoin Cash to everyday life. We plan to do so by building a scalable monetary platform that offers one service: decentralized uncensored electronic cash. We are convinced the path best suited for that are simple and lean structures. Knuth stands firmly with that perspective recognizing in accessibility the most powerful option for every inhabitant of the network.  
 We also want to pave the way for newcomers. We want to help a new generation of developers to create amazing solutions, to take cross-borders trade to unprecedented levels.  
