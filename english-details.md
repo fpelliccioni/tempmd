@@ -1,17 +1,6 @@
 # Knuth node Flipstarter Campaign
 
-Version: 0.5
-
-Revision Date: 03 April 2020
-
-### Authors: 
-
-- Leandro Di Marco, [leandro@kth.cash](mailto:leandro@kth.cash)
-- Fernando Pelliccioni, [fernando@kth.cash](mailto:fernando@kth.cash)
-
----
-
-# Index
+# Contents
 1. [Introduction](#1-introduction)
 2. [Customer Segments](#2-customer-segments)
 3. [Value Proposition and Technical Accomplishments](#3-value-proposition-and-technical-accomplishments)
@@ -23,6 +12,7 @@ Revision Date: 03 April 2020
 9. [Accountability](#9-accountability)
 10. [Funding and Revenue Streams](#10-funding-and-revenue-streams)
 11. [Team](#11-team)
+12. [Document Revision](#12-document-revision)
 
 ---
 
@@ -254,7 +244,7 @@ Although these two factors do not demoralize us - because we are certain we are 
 
 We are clear about the costs of a project of this sort. We are very clear about the international rate of senior software developers, as well as the costs of doing business and driving an organization forward. But we are also very clear about the situation that Bitcoin Cash is going through, and in Knuth, we do not feel comfortable imposing an extra burden. But it is also true we are keen to show the potential of our work and our solution, and mainly collaborate with the community.
 
-For all these reasons, we have decided to present a limited campaign in terms of deliverables and financial resources. The budget that we are requesting for the 960 man-hours of work is USD 50,000 (BCH 230 at the time of writing) that we know is way below international standards.
+For all these reasons, we have decided to present a limited campaign in terms of deliverables and financial resources. The budget that we are requesting for the 960 man-hours of work, is USD 100,000 (BCH 460 at the time of writing) that we know is way below international standards.
 
 This is our way of collaborating in times of crisis, of showing our value, of starting small to grow afterward as strong as possible. Give us the opportunity to prove it.
 
@@ -368,4 +358,15 @@ While Knuth may seem like a newcomer to the node implementations scene, this is 
 The team is formed by people with two main backgrounds, software development, and corporate business, in both cases with vast experience. To date, the team is both lean and functional, with the explicit intention of gaining speed and expedition without compromising robustness.
 
 For more information regarding our team, check out our website at [kth.cash/team](http://kth.cash/team).
+
+# 12. Document revision
+
+Version: 0.7
+
+Revision Date: 05 April 2020
+
+### Authors: 
+
+- Leandro Di Marco, [leandro@kth.cash](mailto:leandro@kth.cash)
+- Fernando Pelliccioni, [fernando@kth.cash](mailto:fernando@kth.cash)
 
