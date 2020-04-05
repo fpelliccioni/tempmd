@@ -276,48 +276,49 @@ As an important note, it is worth mentioning that under any possible scenario du
 
 ### Channels
 
-Knuth is an open-source project that strives for adding value to the Bitcoin Cash ecosystem with healthy ambition but also anchored to reality. For this reason, we want to be close to our users and clients.
+Knuth is an open-source project that strives to add  value to the Bitcoin Cash ecosystem with healthy ambition, but also anchored to reality. For this reason, we want to be close to our users and clients.
 
-Soon we will have our website updated and running. We also have our resources on GitHub, which are open to anyone who feels oriented to participate and collaborate. We encourage not only community members to do so but newcomers, believing that our strength is in diversity and in sharing knowledge under a code of mutual respect and cooperation.
+Soon we will have our website updated and running. We also have our resources on GitHub, which are open to anyone who feels inclined to participate and collaborate. We encourage not only community members to do so,  but also newcomers, believing that our strength is in diversity and in sharing knowledge under a code of mutual respect and cooperation.
 
-Our website and read.cash account are the intended channels for official communications and periodical reports, whether financial or technical. We also count with Telegram, Slack and email available to the public, if necessary, do not hesitate and drop us a line. If you are interested in running Knuth, building something cool with it or just give it a try, leave us a message and we will do our best to help you.
+Our website and read.cash account are the intended channels for official communications and periodic reports, whether financial or technical. We also count with Telegram, Slack and email available to the public, if necessary, do not hesitate to drop us a line. If you are interested in running Knuth, building something cool with it or just give it a try, leave us a message and we will do our best to help you.
 
-website: [kth.cash](http://kth.cash/)  
-github: [github.com/k-nuth/kth](https://github.com/k-nuth/kth)  
-email: [info@kth.cash](mailto:info@kth.cash)  
-telegram: [t.me/knuth_cash](https://t.me/knuth_cash)  
-read.cash:  [read.cash/@kth](https://read.cash/@kth)  
-slack: [k-nuth.slack.com](https://k-nuth.slack.com/)
+Website: [kth.cash](http://kth.cash/)  
+Github: [github.com/k-nuth/kth](https://github.com/k-nuth/kth)  
+Email: [info@kth.cash](mailto:info@kth.cash)  
+Telegram: [t.me/knuth_cash](https://t.me/knuth_cash)  
+Read.cash:  [read.cash/@kth](https://read.cash/@kth)  
+Slack: [k-nuth.slack.com](https://k-nuth.slack.com/)
+Twitter: [@KnuthNode](https://twitter.com/KnuthNode)
 
 ### User Relationships
-We would like to have a fluid relationship with our users, with other node implementations and with the community in general, where under the precepts of collaboration and co-creation we can lay the foundations for a lasting professional relationship.
+We would like to have a fluid relationship with our users, with other node implementations, and with the community in general, where under the precepts of collaboration and co-creation we can lay the foundations for a lasting professional relationship.
 
-We want to be particularly present for the new developers of the ecosystem. We want to grow with them onboard, learn and find solutions together. Knuth was designed with them in consideration and that path will not be abandoned but motivated. 
+We want to be particularly present for the new developers in the ecosystem. We want to grow with them onboard, learn and find solutions together. Knuth was designed with them in mind, and that path will not be abandoned but motivated. 
 
 ### Key Partnerships
-Collaboration among node implementations is of fundamental importance for the benefit of the Bitcoin Cash ecosystem. This concept is deeply rooted in Knuth's philosophy. It is also quite clear for us that healthy competition is beneficial, and from every point of view inspiring as it is an interesting reflection of forces that govern a free market.
+Collaboration among node implementations is of fundamental importance for the benefit of the Bitcoin Cash ecosystem. This concept is deeply rooted in Knuth's philosophy. It is also quite clear for us that healthy competition is beneficial and, from every point of view, inspiring as it is an interesting reflection of forces that govern a free market.
 
-Based on principles of collaboration and healthy competition, we want to learn from other node implementations and share experiences, whether technological or business strategies. We know this path will result in benefits for the community. To compete, it is necessary to maximize user experience, stay in continual innovation while not sacrificing reliability, understand where we are, and the way forward.
+Based on principles of collaboration and healthy competition, we want to learn from other node implementations and share experiences, whether technological or business strategies. We know this path will result in benefits for the community. To compete, it is necessary to maximize user experience, stay in continual innovation while not sacrificing reliability, understand where we are, and see the way forward.
 
-That is our commitment, which is subscribed to the Bitcoin Cash ethos.
+That is our commitment, which is subscribed to by the Bitcoin Cash ethos.
 
-Note: Knuth is part of a group of node implementations that practices responsible disclosure of potential security issues.
+**Note: Knuth is part of a group of node implementations that practices responsible disclosure of potential security issues.*
 
 ### Timing, Politics and Interest
-The challenge to take Bitcoin Cash to its maximum potential is at reach, but our understanding signals that we —as ecosystem— do not have much time to do it. At Knuth we perceive Bitcoin Cash as a product. As a product, it needs users, and users will come just with improved user experience. Within Knuth, we are deeply concerned with that aspect, and how we can ease the way in that direction.
+The challenge to take Bitcoin Cash to its maximum potential is here, but our understanding signals that we—as an ecosystem—do not have much time to do it. At Knuth, we perceive Bitcoin Cash as a product. As a product, it needs users, and users will come only with an improved user experience. Within Knuth, we are deeply interested in this aspect, and how we can ease the way in that direction.
 
-We need at least a hundred times more users in the next couple of years. If we cannot do that, we will never see bitcoin’s true vision realized. And this is nothing related to technical, but with business. The fiat financial system already knows Bitcoin Cash. It has a clear picture of Bitcoin Cash objective, we have shown them what we want, we have declared it to the four corners of the planet. And yet from the strategic point of view, we are failing.
+Bitcoin Cash needs at least one hundred times more users in the next couple of years. If we cannot achieve that, we will never see Bitcoin’s true vision realized. And this has nothing to do with the technical. It has to do with business. The fiat financial system already knows Bitcoin Cash. It has a clear picture of Bitcoin Cash objective; we have shown them what we want; we have declared it to the four corners of the planet. And yet, from the strategic point of view, we are failing.
 
-When a strategy has been declared, there is not much time to execute it. There is no time to think and wait. No, you command and operate, because if not any potential opponent —fiat financial system— will adapt. By the time the target is attained, it becomes evident that the same opponent is already there, waiting, stronger. This is the game we are in. A game we will not win if we continue in this way. A game that, we like it or not, has politics and interests vested in its very core.
+Once a strategy has been declared, there is not much time to execute it. There is no time to think and wait. No, you command and operate, because, if not, any potential opponent—fiat financial system—will adapt. By the time the target is attained, it becomes evident that the same opponent is already there, waiting, stronger. This is the game we are in. It is a game we will not win if we continue in this way. It is a game that, whether we like it or not, has politics and interests vested at its very core.
 
-Politics because it involves people —economy is social, and its medium is a network. And where there are people there is politics. Interest because it involves money —our product is money. And where there is money, there is interest. Politics and interest are part of the game. It is impossible to remove politics because if we do so, we would need to remove people. Samwise, it is impossible to remove interest because if we do so, we will lose the monetary system we want to build. So we need to wake up, Bitcoin Cash is built around people and money, and involves politics and interests. If Bitcoin Cash ecosystem does not realize that fast enough, it will never reach its goal.
+Politics because it involves people—economy is social, and its medium is a network. And where there are people there is politics. Interest because it involves money—our product is money. And where there is money, there is interest. Politics and interest are part of the game. It is impossible to remove politics because if we do so, we would need to remove people. Similarly, it is impossible to remove interest because if we do so, we will lose the monetary system we want to build. So we need to finally comprehend that Bitcoin Cash is built around people and money, and involves politics and interests. If the Bitcoin Cash ecosystem does not realize that fast enough, it will never reach its goal.
 
-Knuth has a clear direction, attracting more people and money to Bitcoin Cash ecosystem. If we succeed, we expect more politics and more interest. It is undoubtedly challenging but needed to create the system we want on a global scale.
+Knuth has a clear direction, attracting more people and money to the Bitcoin Cash ecosystem. If we succeed, we expect more politics and more interest. It is undoubtedly challenging, but it is needed to create the system we want on a global scale.
 
 # 9. Accountability
-Knuth understands the significance of transparency towards the community and intends to be fully compliant with that standard. Knuth will publish monthly progress reports detailing relevant aspects of the operation.
+Knuth understands the significance of transparency toward the community and intends to be fully compliant with that standard. Knuth will publish monthly progress reports detailing relevant aspects of the operation.
 
-These reports will be made available through the official channels mentioned above. They will include, among other things, general metrics, progress of tasks, deliverables offered, and financial statements related to the funds provided by the community. Each of these aspects will include its corresponding verification forms, such as commits from Github for technical aspects —software development— and addresses/wallets/transactions for financial aspects.
+These reports will be made available through the official channels mentioned above. They will include, among other things, general metrics, progress of tasks, deliverables offered, and financial statements related to the funds provided by the community. Each of these aspects will include its corresponding verification forms, such as commits from Github for technical aspects—software development—and addresses/wallets/transactions for financial aspects.
 
 Bitcoin Cash community will have access to this material, and we encourage any interested party to use it as a base for any related concern or question. We want to grow with accountability and transparency.
 
