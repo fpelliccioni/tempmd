@@ -209,7 +209,7 @@ In addition to the specifically targeted tasks, we have in backlog a series of r
     - **Bitcoin Cash formal specification and automated testing**
 Although having a Bitcoin Cash specification written in human language is important, since it facilitates a mutual understanding between developers involved, whether working in node implementation or other infrastructure services, we believe that Bitcoin Cash would greatly benefit by more rigorous specification.  
 For this reason, Knuth proposes to write a formal specification in a logical programming language designed precisely for automated mathematical verification of software correctness.  
-The ultimate goal is to demonstrate that a given Bitcoin Cash implementation works as expected just automatically by running a computer program. Long-term plan: minimum 2 years.
+The ultimate goal is to demonstrate that a given Bitcoin Cash implementation works as expected just automatically by running a computer program.
 
     - **Research on DAA and alternatives**
     The current difficulty adjustment algorithm (DAA) has been perceived from various perspectives by the Bitcoin Cash ecosystem since its inception, some positive and others negative. At Knuth, we want to participate in the research process of what are the real effects of this algorithm on mining and pool operations and, if required, propose improvements or even an alternative development. We know this is a project that requires great transparency and community participation.
