@@ -1,5 +1,3 @@
-# Knuth node Flipstarter Campaign
-
 # Contents
 1. [Introduction](#1-introduction)
 2. [Customer Segments](#2-customer-segments)
