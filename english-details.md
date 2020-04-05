@@ -10,7 +10,6 @@
 9. [Accountability](#9-accountability)
 10. [Funding and Revenue Streams](#10-funding-and-revenue-streams)
 11. [Team](#11-team)
-12. [Document Revision](#12-document-revision)
 
 ---
 
@@ -357,7 +356,9 @@ The team is formed by people with two main backgrounds, software development, an
 
 For more information regarding our team, check out our website at [kth.cash/team](http://kth.cash/team).
 
-# 12. Document revision
+---
+
+# Document revision
 
 Version: 0.7
 
