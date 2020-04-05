@@ -160,13 +160,13 @@ Third, and not least important for implementations, improvements and innovations
 In this way, Knuth’s long term plan includes the following proposal:
 
 1. **Implementation of Block Template conformance tests for mining**
-One of Knuth's main goals for 2020 is to demonstrate to the community its potential as a mining node. The various tests we have carried out so far are consistent with the idea that Knuth is in a state of enough maturity for this purpose. However, we want to take that consistency and security to the extreme, reducing any possible risk to its minimum expression and being able to demonstrate it reliably to the community.
+    One of Knuth's main goals for 2020 is to demonstrate to the community its potential as a mining node. The various tests we have carried out so far are consistent with the idea that Knuth is in a state of enough maturity for this purpose. However, we want to take that consistency and security to the extreme, reducing any possible risk to its minimum expression and being able to demonstrate it reliably to the community.
  
-To put that into practice, we believe, is the best way to ensure conformity with the dominant implementations (Core, BCH Node, ABC, BU). To do so, we want to be able to run the extensive test batteries of the respective implementations on Knuth.
+    To put that into practice, we believe, is the best way to ensure conformity with the dominant implementations (Core, BCH Node, ABC, BU). To do so, we want to be able to run the extensive test batteries of the respective implementations on Knuth.
 
-In order to run these tests, we must proceed with relevant adaptation tasks on the test code itself as well as Knuth's. We are fully confident that this effort will result in minimizing the financial risk of unintended chain splits, alerting other implementations of possible incompatibilities and a solid recognition by the community and our users regarding the correctness of our node.
+    In order to run these tests, we must proceed with relevant adaptation tasks on the test code itself as well as Knuth's. We are fully confident that this effort will result in minimizing the financial risk of unintended chain splits, alerting other implementations of possible incompatibilities and a solid recognition by the community and our users regarding the correctness of our node.
  
-The tasks related to this project are:
+    The tasks related to this project are:
 
     - Research and analysis of main implementations' —Core, ABC, BU and BCHN— mining tests. Extraction of all possible forms of intercommunication between test battery and nodes. Enumeration of those interfaces. Estimated time: 80 hours.
 
@@ -185,7 +185,7 @@ The tasks related to this project are:
 2. **Remove the limitation of 25/50 chained transactions**
 We understand that removing this limitation is desired by a good part of the Bitcoin Cash community. So we take it as a priority for our development team. But we also understand that removing this limitation is not simply changing one constant value for another, but improving the algorithm by which new transactions are added to the Mempool.
 
-Reference implementations use a quadratic order algorithm. We think we can develop a more efficient approach to the problem. This task is currently 60% advanced. Estimated remaining time: 400 hours.
+    Reference implementations use a quadratic order algorithm. We think we can develop a more efficient approach to the problem. This task is currently 60% advanced. Estimated remaining time: 400 hours.
 
 
 3. **High-performance SLP full indexer**
@@ -217,11 +217,11 @@ Documentation is a fundamental tool for Knuth's exposure and proper use. Althoug
 In addition to the specifically targeted tasks, we have  a series of research projects in backlog that will be beneficial not only for Knuth but for the entire ecosystem. They are large-scale projects that involve excellent communication and interaction with the community and other implementations.
 		
     - **Bitcoin Cash formal specification and automated testing**
-Although having a Bitcoin Cash specification written in human language is important, since it facilitates a mutual understanding among the developers involved, whether working in node implementation or other infrastructure services, we believe that Bitcoin Cash would greatly benefit from more rigorous specification.
+    Although having a Bitcoin Cash specification written in human language is important, since it facilitates a mutual understanding among the developers involved, whether working in node implementation or other infrastructure services, we believe that Bitcoin Cash would greatly benefit from more rigorous specification.
 
-For this reason, Knuth proposes to write a formal specification in a logical programming language designed precisely for automated mathematical verification of software correctness.
+        For this reason, Knuth proposes to write a formal specification in a logical programming language designed precisely for automated mathematical verification of software correctness.
 
-The ultimate goal is to demonstrate that a given Bitcoin Cash implementation works as expected, automatically, by running a computer program.
+        The ultimate goal is to demonstrate that a given Bitcoin Cash implementation works as expected, automatically, by running a computer program.
 
     - **Research on DAA and alternatives**
     The current difficulty adjustment algorithm (DAA) has been perceived from various perspectives by the Bitcoin Cash ecosystem since its inception, some positive and others negative. At Knuth, we want to participate in the research process to uncover the  real effects of this algorithm on mining and pool operations and, if required, propose improvements or even an alternative development. We know this is a project that requires great transparency and community participation.
