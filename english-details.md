@@ -287,7 +287,7 @@ Github: [github.com/k-nuth/kth](https://github.com/k-nuth/kth)
 Email: [info@kth.cash](mailto:info@kth.cash)  
 Telegram: [t.me/knuth_cash](https://t.me/knuth_cash)  
 Read.cash:  [read.cash/@kth](https://read.cash/@kth)  
-Slack: [k-nuth.slack.com](https://k-nuth.slack.com/)
+Slack: [k-nuth.slack.com](https://k-nuth.slack.com/)  
 Twitter: [@KnuthNode](https://twitter.com/KnuthNode)
 
 ### User Relationships
