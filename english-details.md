@@ -324,32 +324,32 @@ Bitcoin Cash community will have access to this material, and we encourage any i
 
 # 10. Funding and Revenue Streams
 
-At Knuth, we have the highest respect for voluntarism and self-established initiatives. We know that they are of great importance in the open-source community. And while we accept help from those who are willing to offer it, we are clear that the road ahead is high-demanding in terms of resources, even more so under the aforementioned time conditions. We are in a race against time and our great opponent is neither more nor less than the fiat financial system.
+At Knuth, we have the highest respect for voluntarism and self-established initiatives. We know that they are of great importance in the open-source community. And while we accept help from those who are willing to offer it, we are clear that the road ahead is highly demanding in terms of resources, even more so under the aforementioned conditions. We are in a race against time, and our great opponent is neither more nor less than the fiat financial system.
 
-To sustain that race, we need a cash flow that is not negligible at all. At the same time, we do not want to become a burden to the ecosystem we intend to help, that would make us parasites, and it is not the path we have planned for Knuth.
+To sustain the race, we need a cash flow that is not negligible at all. At the same time, we have no intentions to become a burden to the ecosystem we intend to help—that would make us parasites, and it is not the path we have planned for Knuth.
 
-On the other hand, we want to avoid at all costs obscure initiatives that give rise to a bad image for our organization or unleash conspiracy theories regarding how Knuth obtains its funds. Our commitment is to transparency. We intend to maintain an openness policy concerning our business plan and that it be accelerated in line with the corporations in the ecosystem.
+On the other hand, we want to avoid, at all costs, obscure initiatives that give rise to a bad image for our organization or unleash conspiracy theories regarding how Knuth obtains its funds. Our commitment is to transparency. We intend to maintain an openness policy concerning our business plan and that it be accelerated in line with the corporations in the ecosystem.
 
 Our plans can be grouped under two aspects: funding stream and revenue stream.
 
 ### Funding Stream
-At first instance, we have public funding as a primary mechanism to obtain funds to carry out our operations. Knuth participates in the Flipstarter campaign of April 2020 which we consider a significant step forward in the evolution of fundraising in Bitcoin Cash.
+At first instance, we have public fundraising as a primary mechanism to obtain funds to carry out our operations. Knuth participates in the Flipstarter campaign of April 2020, which we consider a significant step forward in the evolution of fundraising in Bitcoin Cash.
 
 We would love to have the resources to integrate Flipstarter technology to proceed with our own campaigns, but for the moment, that goal is beyond our budget.
 
-Without detriment to that, Knuth also has a direct form of funding per requirement/feature through its website (kth.cash), where each item includes detailed information and the amount required both to start and finish the task.
+Without detriment to that, Knuth also has a direct form of funding per requirement/feature through its website (kth.cash), where each item includes detailed information and the minimal funds required both to start and finish the task.
 
-Also, we are analyzing the option of launching a software consortium under the commitment of being fundamentally decentralized. This consortium will welcome companies, universities, and research institutes that wish to:
-- Advance the state of the art of node implementations.
-- Contribute to research in Bitcoin Cash technology integration.
+Also, we are analyzing the option of launching a software consortium under the commitment of being fundamentally decentralized. This consortium will welcome companies, universities, and research institutions that wish to:
+- Advance the state of the art of node implementations;
+- Contribute to research in Bitcoin Cash technology integration;
 - Support training of students in Bitcoin Cash technology.
 
 Participation in the said consortium would have a membership fee in exchange for benefits such as:
-- Early access to research outputs through consortium reports and/or software.
-- Collaboration on topics of mutual interest.
-- Participate and vote at the consortium committee.
+- Early access to research outputs through consortium reports and/or software;
+- Collaboration on topics of mutual interest;
+- Participation and voting rights in the consortium committee.
 
-This idea is still under development and analysis. Any relevant update will be informed in a timely manner through official channels.
+This idea is still under development and analysis. Any relevant update will be communicated in a timely manner through official channels.
 
 ### Revenue Stream
 In the second instance, Knuth, with demanding growth objectives, wants to conquer its space as a commercial organization, in which Bitcoin Cash-related innovation ventures take us to new frontiers while fulfilling the vision of electronic money for the world.
@@ -358,14 +358,13 @@ We hope our common sense of purpose will bring people together, wanting to be pa
 
 These commercial plans, which will be notified on time, will not interfere in any way with our open-source philosophy. Our flagship product, Knuth, will continue to be open to the world, always.
 
-Our emphasis is on performance, not only on the products and services offered but also on the way we operate.
-
+Our emphasis is on performance, not only on the products and services offered but also on the way we operate. Our socio-political principles and operational methodologies distance us from bureaucratic and slow response organizations. We strive for processes that can be deconstructed into simple units, processes easy to understand, and productive output.
 
 # 11. Team
 
-While Knuth may seem like a newcomer to the node implementations scene, this is only a superficial impression. Going deeper, the technological lineage of which Knuth is part becomes evident. Knuth is a direct descendant of Bitprim node, which in turn, is a descendant of Libbitcoin, created in 2011, being the second full implementation of the Bitcoin protocol, after the original client, created in 2011. Although there are considerable differences between Knuth and its predecessors, the former attempts to get the most out of its genetic memory —in a manner of speaking— embedded in its code.
+While Knuth may seem like a newcomer to the node implementations scene, this is only a superficial impression. Going deeper, the technological lineage of which Knuth is part becomes evident. Knuth is a direct descendant of Bitprim node, which in turn, is a descendant of Libbitcoin, created in 2011, being the second full implementation of the Bitcoin protocol, after the original client. Although there are considerable differences between Knuth and its predecessors, the former attempts to get the most out of its genetic memory—in a manner of speaking—embedded in its code.
 
-The team is formed by people with two main backgrounds, software development, and corporate business, in both cases with vast experience. To date, the team is both lean and functional, with the explicit intention of gaining speed and expedition without compromising robustness.
+The team is formed by people with two main backgrounds—software development, and corporate business—in both cases, with vast experience. To date, the team is both lean and functional, with the explicit intention of gaining speed and expedition without compromising robustness.
 
 For more information regarding our team, check out our website at [kth.cash/team](http://kth.cash/team).
 
