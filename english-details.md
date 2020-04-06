@@ -323,7 +323,7 @@ Based on principles of collaboration and healthy competition, we want to learn f
 
 That is our commitment, which is subscribed to by the Bitcoin Cash ethos.
 
-**Note: Knuth is part of a group of node implementations that practices responsible disclosure of potential security issues.*
+Note: Knuth is part of a group of node implementations that practices responsible disclosure of potential security issues.
 
 ### Timing, Politics and Interest
 
