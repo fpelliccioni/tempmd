@@ -168,19 +168,21 @@ In this way, Knuth’s long term plan includes the following proposal:
  
     The tasks related to this project are:
 
-    - Research and analysis of main implementations' —Core, ABC, BU and BCHN— mining tests. Extraction of all possible forms of intercommunication between test battery and nodes. Enumeration of those interfaces. Estimated time: 80 hours.
-
-    - Adapt Knuth to support RPC commands that are not implemented but necessary to run the tests. Estimated time: 160 hours.
-
-    - Adapt Knuth to support other inspection variants —contained in the test battery— on the node (i.e.: inspection of log files)). Estimated time: 160 hours.
-
-    - Incorporate all relevant tests into Knuth's current test suite. Estimated time: 80 hours.
-
-    - Corroborate and adapt test batteries to be run on Knuth. In case of incompatibility, return to the first step. Estimated time: 80 hours.
-
-    - Create a high performance API to be able to run test batteries replacing JSON-RPC. Note: Running tests takes a relevant amount of time delaying development and maintenance, as well it brings a cost in CI services (Continuous Integration). Developing a more performant API will reduce testing times. Estimated time: 320 hours.
-
-    - Adapt test battery to work with the new testing API. Estimated time: 160 hours.
+    - Research and analysis of main implementations’—Core, ABC, BU and BCHN—mining tests; extraction of all possible forms of intercommunication between test battery and nodes; enumeration of those interfaces. Estimated time: 80 hours.
+    
+    - Adaptation of Knuth to support RPC commands that are not implemented but are necessary to run the tests. Estimated time: 160 hours.
+    
+    - Adaptation of  Knuth to support other inspection variants—contained in the test battery— on the node (i.e.: inspection of log files). Estimated time: 160 hours.
+    
+    - Incorporation of all relevant tests into Knuth's current test suite. Estimated time: 80 hours.
+    
+    - Corroboration and adaptation of the test battery to be run on Knuth. In case of incompatibility, return to the first step. Estimated time: 80 hours.
+    
+    - Creation of a high-performance API to be able to run test batteries replacing JSON-RPC. Note: Running tests takes a significant amount of time, delaying development and maintenance. It also brings a cost in CI services (Continuous Integration.
+    
+    - Developing a more performant API will reduce testing times. Estimated time: 320 hours.
+    
+    - Adaptation of the test battery to work with the new testing API. Estimated time: 160 hours.
  
 2. **Remove the limitation of 25/50 chained transactions**
 We understand that removing this limitation is desired by a good part of the Bitcoin Cash community. So we take it as a priority for our development team. But we also understand that removing this limitation is not simply changing one constant value for another, but improving the algorithm by which new transactions are added to the Mempool.
