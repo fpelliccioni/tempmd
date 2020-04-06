@@ -160,6 +160,7 @@ Third, and not least important for implementations, improvements and innovations
 In this way, Knuth’s long term plan includes the following proposal:
 
 1. **Implementation of Block Template conformance tests for mining**
+
     One of Knuth's main goals for 2020 is to demonstrate to the community its potential as a mining node. The various tests we have carried out so far are consistent with the idea that Knuth is in a state of enough maturity for this purpose. However, we want to take that consistency and security to the extreme, reducing any possible risk to its minimum expression and being able to demonstrate it reliably to the community.
  
     To put that into practice, we believe, is the best way to ensure conformity with the dominant implementations (Core, BCH Node, ABC, BU). To do so, we want to be able to run the extensive test batteries of the respective implementations on Knuth.
@@ -185,40 +186,51 @@ In this way, Knuth’s long term plan includes the following proposal:
     - Adaptation of the test battery to work with the new testing API. Estimated time: 160 hours.
  
 2. **Remove the limitation of 25/50 chained transactions**
+
 We understand that removing this limitation is desired by a good part of the Bitcoin Cash community. So we take it as a priority for our development team. But we also understand that removing this limitation is not simply changing one constant value for another, but improving the algorithm by which new transactions are added to the Mempool.
 
     Reference implementations use a quadratic order algorithm. We think we can develop a more efficient approach to the problem. This task is currently 60% advanced. Estimated remaining time: 400 hours.
 
 
 3. **High-performance SLP full indexer**
+
 Single Ledger Protocol (SLP) has gained momentum in the Bitcoin Cash community as a second layer protocol. We believe having an efficient full indexer within the node would be very useful for the community as a whole and particularly for applications built on top of our platform or that use it as a service. Estimated time: 480 hours.
 
 4. **High-performance mining API**
+
 Knuth focuses on performance. One of the areas in which performance becomes a differentiating factor is mining. Our analysis indicates that although the JSON-API protocol may be of significant utility for certain processes, it is not so much for mining. This is because it is built on HTTP, a very high-level networking protocol for this type of activity. Furthermore, JSON encoding can be seen as generalistic and inefficient compared to an encoding specifically designed for mining use. Estimated time: 480 hours.
 
 5. **Implement Xthinner**
+
 Block propagation is of great importance to the network, in general, but in particular, for miners and pool operators. Xthinner has shown a significant enhancement in block propagation, and its implementation in Knuth would be valuable. Estimated time: 320 hours.
 
 6. **Implement fast synchronization**
+
 Having a node ready to be used for mining as quickly as possible is one of our goals.
 That is why we want to implement UTXO commitments or any other technology that allows rapid node synchronization for use in mining. Estimated time: 480 hours.
 
 7. **Double-SHA256 algorithm optimization**
+
 The SHA256 (double-SHA256) algorithm is of utmost relevance in a Bitcoin Cash node. We have been exploring how to substantially improve it by taking advantage of vector instructions present in modern processors. This will significantly enhance block validation and merkle-root calculation. Estimated time: 320 hours.
 
 8. **Merkle-root algorithm optimization**
+
 As Bitcoin Cash scale and adoption increase, the ecosystem will see more transactions per block. It is worth mentioning that Merkle-root algorithms are not entirely efficient in memory consumption when the number of transactions rises. We have been exploring how to improve this behavior, also obtaining an improvement in block validation times and block template creation. Estimated time: 240 hours.
  
 9. **Improve libraries and languages’ APIs**
+
 Maintenance and continuous improvement of libraries and APIs is a priority. Although this is continuous work, we would like to be able to dedicate at least 160 hours to it in the next 6 months. Estimated time: 160 hours.
  
 10. **Improve documentation**
+
 Documentation is a fundamental tool for Knuth's exposure and proper use. Although this is also a continuous job, we would like to be able to dedicate at least 80 hours to it in the next 6 months. Estimated time: 80 hours.
 
-11. **Research projects**:
+11. **Research projects**
+
 In addition to the specifically targeted tasks, we have  a series of research projects in backlog that will be beneficial not only for Knuth but for the entire ecosystem. They are large-scale projects that involve excellent communication and interaction with the community and other implementations.
 		
     - **Bitcoin Cash formal specification and automated testing**
+
     Although having a Bitcoin Cash specification written in human language is important, since it facilitates a mutual understanding among the developers involved, whether working in node implementation or other infrastructure services, we believe that Bitcoin Cash would greatly benefit from more rigorous specification.
 
         For this reason, Knuth proposes to write a formal specification in a logical programming language designed precisely for automated mathematical verification of software correctness.
@@ -226,14 +238,17 @@ In addition to the specifically targeted tasks, we have  a series of research pr
         The ultimate goal is to demonstrate that a given Bitcoin Cash implementation works as expected, automatically, by running a computer program.
 
     - **Research on DAA and alternatives**
+
     The current difficulty adjustment algorithm (DAA) has been perceived from various perspectives by the Bitcoin Cash ecosystem since its inception, some positive and others negative. At Knuth, we want to participate in the research process to uncover the  real effects of this algorithm on mining and pool operations and, if required, propose improvements or even an alternative development. We know this is a project that requires great transparency and community participation.
 
     - **Research and implement Graphene**
+
     Our initial analysis of Graphene shows it as an interesting option as a block propagation mechanism. Nevertheless, it is a technology that requires more research and testing before being implemented. Our proposal to improve block propagation would implement Xthinner first, while doing the required research on Graphene and then, in case of a positive outcome, proceed with its implementation.
 
 Note: All estimated times in this long-term plan are based on technical approximations and calculations using resources available to date. If there are any changes, they will be duly posted in a timely manner and with the required justifications through Knuth's official channels—in this way, maintaining transparency with the community.
 
 # 5. Deliverables and Schedule
+
 All the tasks mentioned above represent an ambitious plan that, while bringing benefits to the Bitcoin Cash ecosystem, we know, is far-reaching.
 
 Given the current market conditions, it seems relevant to make use of the Flipstarter proposal in the best possible way. In our case, this translates to presenting a campaign with limited scope, but one that allows us to showcase the value already invested in Knuth as well as its future potential.
@@ -249,6 +264,7 @@ Given this proposed methodology, it is difficult for us at this time to present 
 In parallel, there are other associated tasks and activities that we do not consider relevant enough to be included in this document, nor were they independently accounted for at the time of making a budget that makes sense. These activities are related to the preparation of the Flipstarter campaign, website update, node bug fixing and maintenance, release management, devops, small equipment, and minor expenses.
 
 # 6. Budget
+
 The great challenge of any fundraising campaign to date is the complex socio-economic context in which we find ourselves, where the effects of COVID-19 virus are ravaging society. In parallel to that, projects related to Bitcoin Cash ecosystem also have their challenges in the current status quo.
 
 Although these two factors do not demoralize us—because we are certain we are helping to build a better society—it is important to take them into account. This is especially true when it comes to presenting a financial budget like the one we are doing.
@@ -260,6 +276,7 @@ For all these reasons, we have decided to present a limited campaign in terms of
 This is our way of collaborating with the ecosystem, of showing our value, of starting small to grow as strong as possible afterward . Give us the opportunity to prove it.
 
 # 7. Backup Plans
+
 In the event that our campaign does not obtain the requested funds, we plan to make other means available to receive funds from potential contributors. Those sources will be informed shortly by official channels.
 
 Regarding Knuth's technical development, in case of an unsuccessful  campaign, our team will enter into a maintenance mode and will do everything in its power to keep the node updated and under consensus rules as it has been doing to date. Any new development/research and the time required to put it into practice will go through detailed analysis in context.
@@ -293,11 +310,13 @@ Slack: [k-nuth.slack.com](https://k-nuth.slack.com/)
 Twitter: [@KnuthNode](https://twitter.com/KnuthNode)
 
 ### User Relationships
+
 We would like to have a fluid relationship with our users, with other node implementations, and with the community in general, where under the precepts of collaboration and co-creation we can lay the foundations for a lasting professional relationship.
 
 We want to be particularly present for the new developers in the ecosystem. We want to grow with them onboard, learn and find solutions together. Knuth was designed with them in mind, and that path will not be abandoned but motivated. 
 
 ### Key Partnerships
+
 Collaboration among node implementations is of fundamental importance for the benefit of the Bitcoin Cash ecosystem. This concept is deeply rooted in Knuth's philosophy. It is also quite clear for us that healthy competition is beneficial and, from every point of view, inspiring as it is an interesting reflection of forces that govern a free market.
 
 Based on principles of collaboration and healthy competition, we want to learn from other node implementations and share experiences, whether technological or business strategies. We know this path will result in benefits for the community. To compete, it is necessary to maximize user experience, stay in continual innovation while not sacrificing reliability, understand where we are, and see the way forward.
@@ -307,6 +326,7 @@ That is our commitment, which is subscribed to by the Bitcoin Cash ethos.
 **Note: Knuth is part of a group of node implementations that practices responsible disclosure of potential security issues.*
 
 ### Timing, Politics and Interest
+
 The challenge to take Bitcoin Cash to its maximum potential is here, but our understanding signals that we—as an ecosystem—do not have much time to do it. At Knuth, we perceive Bitcoin Cash as a product. As a product, it needs users, and users will come only with an improved user experience. Within Knuth, we are deeply interested in this aspect, and how we can ease the way in that direction.
 
 Bitcoin Cash needs at least one hundred times more users in the next couple of years. If we cannot achieve that, we will never see Bitcoin’s true vision realized. And this has nothing to do with the technical. It has to do with business. The fiat financial system already knows Bitcoin Cash. It has a clear picture of Bitcoin Cash objective; we have shown them what we want; we have declared it to the four corners of the planet. And yet, from the strategic point of view, we are failing.
@@ -318,6 +338,7 @@ Politics because it involves people—economy is social, and its medium is a net
 Knuth has a clear direction, attracting more people and money to the Bitcoin Cash ecosystem. If we succeed, we expect more politics and more interest. It is undoubtedly challenging, but it is needed to create the system we want on a global scale.
 
 # 9. Accountability
+
 Knuth understands the significance of transparency toward the community and intends to be fully compliant with that standard. Knuth will publish monthly progress reports detailing relevant aspects of the operation.
 
 These reports will be made available through the official channels mentioned above. They will include, among other things, general metrics, progress of tasks, deliverables offered, and financial statements related to the funds provided by the community. Each of these aspects will include its corresponding verification forms, such as commits from Github for technical aspects—software development—and addresses/wallets/transactions for financial aspects.
@@ -335,6 +356,7 @@ On the other hand, we want to avoid, at all costs, obscure initiatives that give
 Our plans can be grouped under two aspects: funding stream and revenue stream.
 
 ### Funding Stream
+
 At first instance, we have public fundraising as a primary mechanism to obtain funds to carry out our operations. Knuth participates in the Flipstarter campaign of April 2020, which we consider a significant step forward in the evolution of fundraising in Bitcoin Cash.
 
 We would love to have the resources to integrate Flipstarter technology to proceed with our own campaigns, but for the moment, that goal is beyond our budget.
@@ -354,6 +376,7 @@ Participation in the said consortium would have a membership fee in exchange for
 This idea is still under development and analysis. Any relevant update will be communicated in a timely manner through official channels.
 
 ### Revenue Stream
+
 In the second instance, Knuth, with demanding growth objectives, wants to conquer its space as a commercial organization, in which Bitcoin Cash-related innovation ventures take us to new frontiers while fulfilling the vision of electronic money for the world.
 
 We hope our common sense of purpose will bring people together, wanting to be part of the development of quality Bitcoin Cash products and services. This will bring a revenue stream that will be submitted to increase our offer for the benefit of the ecosystem.
@@ -374,9 +397,9 @@ For more information regarding our team, check out our website at [kth.cash/team
 
 # Document revision
 
-Version: 0.7
+Version: 0.8
 
-Revision Date: 05 April 2020
+Revision Date: 06 April 2020
 
 ### Authors: 
 
