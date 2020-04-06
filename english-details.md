@@ -263,7 +263,6 @@ Given this proposed methodology, it is difficult for us at this time to present 
 
 In parallel, there are other associated tasks and activities that we do not consider relevant enough to be included in this document, nor were they independently accounted for at the time of making a budget that makes sense. These activities are related to the preparation of the Flipstarter campaign, website update, node bug fixing and maintenance, release management, devops, small equipment, and minor expenses.
 
-
 # 6. Budget
 
 The great challenge of any fundraising campaign to date is the complex socio-economic context in which we find ourselves, where the effects of COVID-19 virus are ravaging society. In parallel to that, projects related to Bitcoin Cash ecosystem also have their challenges in the current status quo.
