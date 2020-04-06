@@ -187,51 +187,51 @@ In this way, Knuth’s long term plan includes the following proposal:
  
 2. **Remove the limitation of 25/50 chained transactions**
 
-We understand that removing this limitation is desired by a good part of the Bitcoin Cash community. So we take it as a priority for our development team. But we also understand that removing this limitation is not simply changing one constant value for another, but improving the algorithm by which new transactions are added to the Mempool.
+    We understand that removing this limitation is desired by a good part of the Bitcoin Cash community. So we take it as a priority for our development team. But we also understand that removing this limitation is not simply changing one constant value for another, but improving the algorithm by which new transactions are added to the Mempool.
 
     Reference implementations use a quadratic order algorithm. We think we can develop a more efficient approach to the problem. This task is currently 60% advanced. Estimated remaining time: 400 hours.
 
 
 3. **High-performance SLP full indexer**
 
-Single Ledger Protocol (SLP) has gained momentum in the Bitcoin Cash community as a second layer protocol. We believe having an efficient full indexer within the node would be very useful for the community as a whole and particularly for applications built on top of our platform or that use it as a service. Estimated time: 480 hours.
+    Single Ledger Protocol (SLP) has gained momentum in the Bitcoin Cash community as a second layer protocol. We believe having an efficient full indexer within the node would be very useful for the community as a whole and particularly for applications built on top of our platform or that use it as a service. Estimated time: 480 hours.
 
 4. **High-performance mining API**
 
-Knuth focuses on performance. One of the areas in which performance becomes a differentiating factor is mining. Our analysis indicates that although the JSON-API protocol may be of significant utility for certain processes, it is not so much for mining. This is because it is built on HTTP, a very high-level networking protocol for this type of activity. Furthermore, JSON encoding can be seen as generalistic and inefficient compared to an encoding specifically designed for mining use. Estimated time: 480 hours.
+    Knuth focuses on performance. One of the areas in which performance becomes a differentiating factor is mining. Our analysis indicates that although the JSON-API protocol may be of significant utility for certain processes, it is not so much for mining. This is because it is built on HTTP, a very high-level networking protocol for this type of activity. Furthermore, JSON encoding can be seen as generalistic and inefficient compared to an encoding specifically designed for mining use. Estimated time: 480 hours.
 
 5. **Implement Xthinner**
 
-Block propagation is of great importance to the network, in general, but in particular, for miners and pool operators. Xthinner has shown a significant enhancement in block propagation, and its implementation in Knuth would be valuable. Estimated time: 320 hours.
+    Block propagation is of great importance to the network, in general, but in particular, for miners and pool operators. Xthinner has shown a significant enhancement in block propagation, and its implementation in Knuth would be valuable. Estimated time: 320 hours.
 
 6. **Implement fast synchronization**
 
-Having a node ready to be used for mining as quickly as possible is one of our goals.
-That is why we want to implement UTXO commitments or any other technology that allows rapid node synchronization for use in mining. Estimated time: 480 hours.
+    Having a node ready to be used for mining as quickly as possible is one of our goals.
+    That is why we want to implement UTXO commitments or any other technology that allows rapid node synchronization for use in mining. Estimated time: 480 hours.
 
 7. **Double-SHA256 algorithm optimization**
 
-The SHA256 (double-SHA256) algorithm is of utmost relevance in a Bitcoin Cash node. We have been exploring how to substantially improve it by taking advantage of vector instructions present in modern processors. This will significantly enhance block validation and merkle-root calculation. Estimated time: 320 hours.
+    The SHA256 (double-SHA256) algorithm is of utmost relevance in a Bitcoin Cash node. We have been exploring how to substantially improve it by taking advantage of vector instructions present in modern processors. This will significantly enhance block validation and merkle-root calculation. Estimated time: 320 hours.
 
 8. **Merkle-root algorithm optimization**
 
-As Bitcoin Cash scale and adoption increase, the ecosystem will see more transactions per block. It is worth mentioning that Merkle-root algorithms are not entirely efficient in memory consumption when the number of transactions rises. We have been exploring how to improve this behavior, also obtaining an improvement in block validation times and block template creation. Estimated time: 240 hours.
+    As Bitcoin Cash scale and adoption increase, the ecosystem will see more transactions per block. It is worth mentioning that Merkle-root algorithms are not entirely efficient in memory consumption when the number of transactions rises. We have been exploring how to improve this behavior, also obtaining an improvement in block validation times and block template creation. Estimated time: 240 hours.
  
 9. **Improve libraries and languages’ APIs**
 
-Maintenance and continuous improvement of libraries and APIs is a priority. Although this is continuous work, we would like to be able to dedicate at least 160 hours to it in the next 6 months. Estimated time: 160 hours.
+    Maintenance and continuous improvement of libraries and APIs is a priority. Although this is continuous work, we would like to be able to dedicate at least 160 hours to it in the next 6 months. Estimated time: 160 hours.
  
 10. **Improve documentation**
 
-Documentation is a fundamental tool for Knuth's exposure and proper use. Although this is also a continuous job, we would like to be able to dedicate at least 80 hours to it in the next 6 months. Estimated time: 80 hours.
+    Documentation is a fundamental tool for Knuth's exposure and proper use. Although this is also a continuous job, we would like to be able to dedicate at least 80 hours to it in the next 6 months. Estimated time: 80 hours.
 
 11. **Research projects**
 
-In addition to the specifically targeted tasks, we have  a series of research projects in backlog that will be beneficial not only for Knuth but for the entire ecosystem. They are large-scale projects that involve excellent communication and interaction with the community and other implementations.
+    In addition to the specifically targeted tasks, we have  a series of research projects in backlog that will be beneficial not only for Knuth but for the entire ecosystem. They are large-scale projects that involve excellent communication and interaction with the community and other implementations.
 		
     - **Bitcoin Cash formal specification and automated testing**
 
-    Although having a Bitcoin Cash specification written in human language is important, since it facilitates a mutual understanding among the developers involved, whether working in node implementation or other infrastructure services, we believe that Bitcoin Cash would greatly benefit from more rigorous specification.
+        Although having a Bitcoin Cash specification written in human language is important, since it facilitates a mutual understanding among the developers involved, whether working in node implementation or other infrastructure services, we believe that Bitcoin Cash would greatly benefit from more rigorous specification.
 
         For this reason, Knuth proposes to write a formal specification in a logical programming language designed precisely for automated mathematical verification of software correctness.
 
@@ -239,11 +239,11 @@ In addition to the specifically targeted tasks, we have  a series of research pr
 
     - **Research on DAA and alternatives**
 
-    The current difficulty adjustment algorithm (DAA) has been perceived from various perspectives by the Bitcoin Cash ecosystem since its inception, some positive and others negative. At Knuth, we want to participate in the research process to uncover the  real effects of this algorithm on mining and pool operations and, if required, propose improvements or even an alternative development. We know this is a project that requires great transparency and community participation.
+        The current difficulty adjustment algorithm (DAA) has been perceived from various perspectives by the Bitcoin Cash ecosystem since its inception, some positive and others negative. At Knuth, we want to participate in the research process to uncover the  real effects of this algorithm on mining and pool operations and, if required, propose improvements or even an alternative development. We know this is a project that requires great transparency and community participation.
 
     - **Research and implement Graphene**
 
-    Our initial analysis of Graphene shows it as an interesting option as a block propagation mechanism. Nevertheless, it is a technology that requires more research and testing before being implemented. Our proposal to improve block propagation would implement Xthinner first, while doing the required research on Graphene and then, in case of a positive outcome, proceed with its implementation.
+        Our initial analysis of Graphene shows it as an interesting option as a block propagation mechanism. Nevertheless, it is a technology that requires more research and testing before being implemented. Our proposal to improve block propagation would implement Xthinner first, while doing the required research on Graphene and then, in case of a positive outcome, proceed with its implementation.
 
 Note: All estimated times in this long-term plan are based on technical approximations and calculations using resources available to date. If there are any changes, they will be duly posted in a timely manner and with the required justifications through Knuth's official channels—in this way, maintaining transparency with the community.
 
