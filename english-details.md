@@ -21,11 +21,11 @@ While analyzing Bitcoin Cash status quo, we cannot avoid looking at it from a bu
 How can Bitcoin Cash compete with that?
 
 # 2. Customer Segments
-Building a monetary system that challenges the current financial apparatus, one that brings economic freedom for everyone, would require quite an effort, and many people to be  involved. Not just a few, but a solid mass of people. That is because, to compete with the current monetary system, we need to replace millions of lines of code, thousands of applications, and solutions that are in use today, every day.
+Building a monetary system that challenges the current financial apparatus, one that brings economic freedom for everyone, would require quite an effort, and many people to be involved. Not just a few, but a solid mass of people. That is because, to compete with the current monetary system, we need to replace millions of lines of code, thousands of applications, and solutions that are in use today, every day.
 
 We must evolve and take naivety out of the equation. Bitcoin Cash is a newcomer in a market that is fully mature. The share Bitcoin Cash wants needs to be conquered, taken—not by force, not by social posting, not by ripping the community apart, but through hard work, with thought applied to action, with infrastructure that works, is scalable and performant. Bitcoin Cash needs more people. We need to attract them.
 
-Knuth is convinced that the path of simplicity is best suited for that attraction. Avoiding unnecessary complexity as much as possible is best for Bitcoin Cash. Knuth stands firmly with that perspective, recognizing that accessibility is the best option for every stakeholder in the ecosystem. Delivering a readable and easy-to-understand platform will allow these stakeholders  to orient energy and work over aspects more relevant for their solutions and operations.
+Knuth is convinced that the path of simplicity is best suited for that attraction. Avoiding unnecessary complexity as much as possible is best for Bitcoin Cash. Knuth stands firmly with that perspective, recognizing that accessibility is the best option for every stakeholder in the ecosystem. Delivering a readable and easy-to-understand platform will allow these stakeholders to orient energy and work over aspects more relevant for their solutions and operations.
 
 In the same way, we recognize that Bitcoin Cash must improve its efforts on allowing qualified people to come and enter its environments. For some reason, things become difficult for newcomers.
 
@@ -71,9 +71,9 @@ Second, Knuth also automatizes the administration of internal modules. When inst
 
 Finally, with performance in mind, Knuth counts with two installation modes:
 
-- Extra-performance mode: Our build system will download Knuth’s complete code and compile it, taking maximum advantage of the characteristics of the  platforms/processors in use.  Compilation times can take longer, but the end result is a super-optimized binary, ideal for users in need of extra performance.
+- Extra-performance mode: Our build system will download Knuth’s complete code and compile it, taking maximum advantage of the characteristics of the platforms/processors in use. Compilation times can take longer, but the end result is a super-optimized binary, ideal for users in need of extra performance.
 
-- Easy-rider mode: Pre-compiled Knuth node binaries for mainstream operating systems (Linux, macOS and Windows). These binaries are ideal for prospective users. This mode focuses on timing and a ready-to-go solution . These pre-compiled  binaries are ready for the following instructions and extensions: `64-bits, movbe, mmx, sse, sse2, sse3, ssse3, sse41, sse42, popcnt, lzcnt, avx, avx2, aes, pclmul, fsgsbase, rdrnd, fma3, abm, bmi, bmi2, f16c, xsave, xsaveopt, cx16`.
+- Easy-rider mode: Pre-compiled Knuth node binaries for mainstream operating systems (Linux, macOS and Windows). These binaries are ideal for prospective users. This mode focuses on timing and a ready-to-go solution . These pre-compiled binaries are ready for the following instructions and extensions: `64-bits, movbe, mmx, sse, sse2, sse3, ssse3, sse41, sse42, popcnt, lzcnt, avx, avx2, aes, pclmul, fsgsbase, rdrnd, fma3, abm, bmi, bmi2, f16c, xsave, xsaveopt, cx16`.
 
 ### Database modes
 Designed to offer a high level of specialization for particular use cases, the Knuth node can be initialized under 3 different database modes at installation time:
@@ -118,7 +118,7 @@ The main modules are:
 
 - **Exe**: Bitcoin Cash full node executable.
 
-- **Programming language APIs**: In addition to providing a full node as an executable program, a node is also offered as a library. This is designed so that any user can build applications using the libraries in the supported languages. The created application becomes a node since Knuth's libraries operate in the same memory space as the node. This allows efficient access to domain objects (such as blocks and transactions) without going through the networking layers that make access slower. Libraries are offered in the following languages: C, C++, C#, Eiffel, Go, Javascript, Python and Rust. In addition, given the provided tools, users can create their own libraries in the language of their preference.  
+- **Programming language APIs**: In addition to providing a full node as an executable program, a node is also offered as a library. This is designed so that any user can build applications using the libraries in the supported languages. The created application becomes a node since Knuth's libraries operate in the same memory space as the node. This allows efficient access to domain objects (such as blocks and transactions) without going through the networking layers that make access slower. Libraries are offered in the following languages: C, C++, C#, Eiffel, Go, Javascript, Python and Rust. In addition, given the provided tools, users can create their own libraries in the language of their preference.
 
 - **RPC**: This module provides support for the JSON-RPC protocol.
 
@@ -134,7 +134,7 @@ In relation to the toolchain, Knuth uses the most valued ones by the C++ communi
 Knuth also uses the following continuous integration services, guaranteeing the highest conformity degree within multiple operating systems: Travis-CI, Appveyor, Cirrus-CI. And in the continuous integration scripts, Knuth uses the following tools: clang-tidy, clang-format, sanitizers, and profile guided optimizations.
 
 ### Multi currency
-From the early days of Knuth (and his main ancestor, Bitprim,) its developers were  distinguished by having an inquisitive and curious mind with a characteristic driver in programmatic and protocol experimentation. This is why Knuth, although focused on Bitcoin Cash, also supports Bitcoin (BTC) and Litecoin (LTC).
+From the early days of Knuth (and his main ancestor, Bitprim,) its developers were distinguished by having an inquisitive and curious mind with a characteristic driver in programmatic and protocol experimentation. This is why Knuth, although focused on Bitcoin Cash, also supports Bitcoin (BTC) and Litecoin (LTC).
 
 Over time, this proved to be of relevant importance. On one hand, it shows Knuth’s flexibility in terms of how easy it is to add a new coin to our codebase, and particularly, how quickly it can be done. On the other hand, it was discovered that by adapting the code, to support another coin, edge cases were spontaneously created, which in turn helped in fixing unreported potential errors related to the Bitcoin Cash (BCH) code.
 
@@ -161,89 +161,89 @@ In this way, Knuth’s long term plan includes the following proposal:
 
 1. **Implementation of Block Template conformance tests for mining**
 
-    One of Knuth's main goals for 2020 is to demonstrate to the community its potential as a mining node. The various tests we have carried out so far are consistent with the idea that Knuth is in a state of enough maturity for this purpose. However, we want to take that consistency and security to the extreme, reducing any possible risk to its minimum expression and being able to demonstrate it reliably to the community.
+   One of Knuth's main goals for 2020 is to demonstrate to the community its potential as a mining node. The various tests we have carried out so far are consistent with the idea that Knuth is in a state of enough maturity for this purpose. However, we want to take that consistency and security to the extreme, reducing any possible risk to its minimum expression and being able to demonstrate it reliably to the community.
  
-    To put that into practice, we believe, is the best way to ensure conformity with the dominant implementations (Core, BCH Node, ABC, BU). To do so, we want to be able to run the extensive test batteries of the respective implementations on Knuth.
+   To put that into practice, we believe, is the best way to ensure conformity with the dominant implementations (Core, BCH Node, ABC, BU). To do so, we want to be able to run the extensive test batteries of the respective implementations on Knuth.
 
-    In order to run these tests, we must proceed with relevant adaptation tasks on the test code itself as well as Knuth's. We are fully confident that this effort will result in minimizing the financial risk of unintended chain splits, alerting other implementations of possible incompatibilities and a solid recognition by the community and our users regarding the correctness of our node.
+   In order to run these tests, we must proceed with relevant adaptation tasks on the test code itself as well as Knuth's. We are fully confident that this effort will result in minimizing the financial risk of unintended chain splits, alerting other implementations of possible incompatibilities and a solid recognition by the community and our users regarding the correctness of our node.
  
-    The tasks related to this project are:
+   The tasks related to this project are:
 
-    - Research and analysis of main implementations’—Core, ABC, BU and BCHN—mining tests; extraction of all possible forms of intercommunication between test battery and nodes; enumeration of those interfaces. Estimated time: 80 hours.
-    
-    - Adaptation of Knuth to support RPC commands that are not implemented but are necessary to run the tests. Estimated time: 160 hours.
-    
-    - Adaptation of  Knuth to support other inspection variants—contained in the test battery— on the node (i.e.: inspection of log files). Estimated time: 160 hours.
-    
-    - Incorporation of all relevant tests into Knuth's current test suite. Estimated time: 80 hours.
-    
-    - Corroboration and adaptation of the test battery to be run on Knuth. In case of incompatibility, return to the first step. Estimated time: 80 hours.
-    
-    - Creation of a high-performance API to be able to run test batteries replacing JSON-RPC. Note: Running tests takes a significant amount of time, delaying development and maintenance. It also brings a cost in CI services (Continuous Integration.
-    
-    - Developing a more performant API will reduce testing times. Estimated time: 320 hours.
-    
-    - Adaptation of the test battery to work with the new testing API. Estimated time: 160 hours.
+   - Research and analysis of main implementations’—Core, ABC, BU and BCHN—mining tests; extraction of all possible forms of intercommunication between test battery and nodes; enumeration of those interfaces. Estimated time: 80 hours.
+
+   - Adaptation of Knuth to support RPC commands that are not implemented but are necessary to run the tests. Estimated time: 160 hours.
+
+   - Adaptation of Knuth to support other inspection variants—contained in the test battery— on the node (i.e.: inspection of log files). Estimated time: 160 hours.
+
+   - Incorporation of all relevant tests into Knuth's current test suite. Estimated time: 80 hours.
+
+   - Corroboration and adaptation of the test battery to be run on Knuth. In case of incompatibility, return to the first step. Estimated time: 80 hours.
+
+   - Creation of a high-performance API to be able to run test batteries replacing JSON-RPC. Note: Running tests takes a significant amount of time, delaying development and maintenance. It also brings a cost in CI services (Continuous Integration.
+
+   - Developing a more performant API will reduce testing times. Estimated time: 320 hours.
+
+   - Adaptation of the test battery to work with the new testing API. Estimated time: 160 hours.
  
 2. **Remove the limitation of 25/50 chained transactions**
 
-    We understand that removing this limitation is desired by a good part of the Bitcoin Cash community. So we take it as a priority for our development team. But we also understand that removing this limitation is not simply changing one constant value for another, but improving the algorithm by which new transactions are added to the Mempool.
+   We understand that removing this limitation is desired by a good part of the Bitcoin Cash community. So we take it as a priority for our development team. But we also understand that removing this limitation is not simply changing one constant value for another, but improving the algorithm by which new transactions are added to the Mempool.
 
-    Reference implementations use a quadratic order algorithm. We think we can develop a more efficient approach to the problem. This task is currently 60% advanced. Estimated remaining time: 400 hours.
+   Reference implementations use a quadratic order algorithm. We think we can develop a more efficient approach to the problem. This task is currently 60% advanced. Estimated remaining time: 400 hours.
 
 
 3. **High-performance SLP full indexer**
 
-    Single Ledger Protocol (SLP) has gained momentum in the Bitcoin Cash community as a second layer protocol. We believe having an efficient full indexer within the node would be very useful for the community as a whole and particularly for applications built on top of our platform or that use it as a service. Estimated time: 480 hours.
+   Single Ledger Protocol (SLP) has gained momentum in the Bitcoin Cash community as a second layer protocol. We believe having an efficient full indexer within the node would be very useful for the community as a whole and particularly for applications built on top of our platform or that use it as a service. Estimated time: 480 hours.
 
 4. **High-performance mining API**
 
-    Knuth focuses on performance. One of the areas in which performance becomes a differentiating factor is mining. Our analysis indicates that although the JSON-API protocol may be of significant utility for certain processes, it is not so much for mining. This is because it is built on HTTP, a very high-level networking protocol for this type of activity. Furthermore, JSON encoding can be seen as generalistic and inefficient compared to an encoding specifically designed for mining use. Estimated time: 480 hours.
+   Knuth focuses on performance. One of the areas in which performance becomes a differentiating factor is mining. Our analysis indicates that although the JSON-API protocol may be of significant utility for certain processes, it is not so much for mining. This is because it is built on HTTP, a very high-level networking protocol for this type of activity. Furthermore, JSON encoding can be seen as generalistic and inefficient compared to an encoding specifically designed for mining use. Estimated time: 480 hours.
 
 5. **Implement Xthinner**
 
-    Block propagation is of great importance to the network, in general, but in particular, for miners and pool operators. Xthinner has shown a significant enhancement in block propagation, and its implementation in Knuth would be valuable. Estimated time: 320 hours.
+   Block propagation is of great importance to the network, in general, but in particular, for miners and pool operators. Xthinner has shown a significant enhancement in block propagation, and its implementation in Knuth would be valuable. Estimated time: 320 hours.
 
 6. **Implement fast synchronization**
 
-    Having a node ready to be used for mining as quickly as possible is one of our goals.
-    That is why we want to implement UTXO commitments or any other technology that allows rapid node synchronization for use in mining. Estimated time: 480 hours.
+   Having a node ready to be used for mining as quickly as possible is one of our goals.
+   That is why we want to implement UTXO commitments or any other technology that allows rapid node synchronization for use in mining. Estimated time: 480 hours.
 
 7. **Double-SHA256 algorithm optimization**
 
-    The SHA256 (double-SHA256) algorithm is of utmost relevance in a Bitcoin Cash node. We have been exploring how to substantially improve it by taking advantage of vector instructions present in modern processors. This will significantly enhance block validation and merkle-root calculation. Estimated time: 320 hours.
+   The SHA256 (double-SHA256) algorithm is of utmost relevance in a Bitcoin Cash node. We have been exploring how to substantially improve it by taking advantage of vector instructions present in modern processors. This will significantly enhance block validation and merkle-root calculation. Estimated time: 320 hours.
 
 8. **Merkle-root algorithm optimization**
 
-    As Bitcoin Cash scale and adoption increase, the ecosystem will see more transactions per block. It is worth mentioning that Merkle-root algorithms are not entirely efficient in memory consumption when the number of transactions rises. We have been exploring how to improve this behavior, also obtaining an improvement in block validation times and block template creation. Estimated time: 240 hours.
+   As Bitcoin Cash scale and adoption increase, the ecosystem will see more transactions per block. It is worth mentioning that Merkle-root algorithms are not entirely efficient in memory consumption when the number of transactions rises. We have been exploring how to improve this behavior, also obtaining an improvement in block validation times and block template creation. Estimated time: 240 hours.
  
 9. **Improve libraries and languages’ APIs**
 
-    Maintenance and continuous improvement of libraries and APIs is a priority. Although this is continuous work, we would like to be able to dedicate at least 160 hours to it in the next 6 months. Estimated time: 160 hours.
+   Maintenance and continuous improvement of libraries and APIs is a priority. Although this is continuous work, we would like to be able to dedicate at least 160 hours to it in the next 6 months. Estimated time: 160 hours.
  
 10. **Improve documentation**
 
-    Documentation is a fundamental tool for Knuth's exposure and proper use. Although this is also a continuous job, we would like to be able to dedicate at least 80 hours to it in the next 6 months. Estimated time: 80 hours.
+   Documentation is a fundamental tool for Knuth's exposure and proper use. Although this is also a continuous job, we would like to be able to dedicate at least 80 hours to it in the next 6 months. Estimated time: 80 hours.
 
 11. **Research projects**
 
-    In addition to the specifically targeted tasks, we have  a series of research projects in backlog that will be beneficial not only for Knuth but for the entire ecosystem. They are large-scale projects that involve excellent communication and interaction with the community and other implementations.
+   In addition to the specifically targeted tasks, we have a series of research projects in backlog that will be beneficial not only for Knuth but for the entire ecosystem. They are large-scale projects that involve excellent communication and interaction with the community and other implementations.
 		
-    - **Bitcoin Cash formal specification and automated testing**
+   - **Bitcoin Cash formal specification and automated testing**
 
-        Although having a Bitcoin Cash specification written in human language is important, since it facilitates a mutual understanding among the developers involved, whether working in node implementation or other infrastructure services, we believe that Bitcoin Cash would greatly benefit from more rigorous specification.
+      Although having a Bitcoin Cash specification written in human language is important, since it facilitates a mutual understanding among the developers involved, whether working in node implementation or other infrastructure services, we believe that Bitcoin Cash would greatly benefit from more rigorous specification.
 
-        For this reason, Knuth proposes to write a formal specification in a logical programming language designed precisely for automated mathematical verification of software correctness.
+      For this reason, Knuth proposes to write a formal specification in a logical programming language designed precisely for automated mathematical verification of software correctness.
 
-        The ultimate goal is to demonstrate that a given Bitcoin Cash implementation works as expected, automatically, by running a computer program.
+      The ultimate goal is to demonstrate that a given Bitcoin Cash implementation works as expected, automatically, by running a computer program.
 
-    - **Research on DAA and alternatives**
+   - **Research on DAA and alternatives**
 
-        The current difficulty adjustment algorithm (DAA) has been perceived from various perspectives by the Bitcoin Cash ecosystem since its inception, some positive and others negative. At Knuth, we want to participate in the research process to uncover the  real effects of this algorithm on mining and pool operations and, if required, propose improvements or even an alternative development. We know this is a project that requires great transparency and community participation.
+      The current difficulty adjustment algorithm (DAA) has been perceived from various perspectives by the Bitcoin Cash ecosystem since its inception, some positive and others negative. At Knuth, we want to participate in the research process to uncover the real effects of this algorithm on mining and pool operations and, if required, propose improvements or even an alternative development. We know this is a project that requires great transparency and community participation.
 
-    - **Research and implement Graphene**
+   - **Research and implement Graphene**
 
-        Our initial analysis of Graphene shows it as an interesting option as a block propagation mechanism. Nevertheless, it is a technology that requires more research and testing before being implemented. Our proposal to improve block propagation would implement Xthinner first, while doing the required research on Graphene and then, in case of a positive outcome, proceed with its implementation.
+      Our initial analysis of Graphene shows it as an interesting option as a block propagation mechanism. Nevertheless, it is a technology that requires more research and testing before being implemented. Our proposal to improve block propagation would implement Xthinner first, while doing the required research on Graphene and then, in case of a positive outcome, proceed with its implementation.
 
 Note: All estimated times in this long-term plan are based on technical approximations and calculations using resources available to date. If there are any changes, they will be duly posted in a timely manner and with the required justifications through Knuth's official channels—in this way, maintaining transparency with the community.
 
@@ -280,13 +280,13 @@ This is our way of collaborating with the ecosystem, of showing our value, of st
 
 In the event that our campaign does not obtain the requested funds, we plan to make other means available to receive funds from potential contributors. Those sources will be informed shortly by official channels.
 
-Regarding Knuth's technical development, in case of an unsuccessful  campaign, our team will enter into a maintenance mode and will do everything in its power to keep the node updated and under consensus rules as it has been doing to date. Any new development/research and the time required to put it into practice will go through detailed analysis in context.
+Regarding Knuth's technical development, in case of an unsuccessful campaign, our team will enter into a maintenance mode and will do everything in its power to keep the node updated and under consensus rules as it has been doing to date. Any new development/research and the time required to put it into practice will go through detailed analysis in context.
 
 Either way, Knuth is an open-source venture and welcomes any voluntary collaboration to put the presented plan into practice. We welcome anyone who wants to collaborate.
 
 Apart from all that, Knuth is in the evaluation phase of new revenue streams that do not depend exclusively on fundraising but on delivering specific services to Bitcoin Cash ecosystem. More details on this can be found in the Revenue Streams section.
 
-A non-trivial aspect of considering  a fundraising campaign is the volatility of Bitcoin Cash in the short term. In the event of our Flipstarter campaign having a successful end, we would like nothing more than to keep raised funds in BCH as a unit of account, and to be able to consume them directly without exchanges involved, but we know this represents some  challenges and can compromise negatively obtained funds.
+A non-trivial aspect of considering a fundraising campaign is the volatility of Bitcoin Cash in the short term. In the event of our Flipstarter campaign having a successful end, we would like nothing more than to keep raised funds in BCH as a unit of account, and to be able to consume them directly without exchanges involved, but we know this represents some challenges and can compromise negatively obtained funds.
 
 A possible solution is to keep 50% of obtained funds in BCH and the remaining 50% in some stable coin such as USDH. Any matter related to this topic will be duly addressed in a timely manner and with adequate feedback from the community.
 
@@ -296,9 +296,9 @@ As an important note, it is worth mentioning that under any possible scenario du
 
 ### Channels
 
-Knuth is an open-source project that strives to add  value to the Bitcoin Cash ecosystem with healthy ambition, but also anchored to reality. For this reason, we want to be close to our users and clients.
+Knuth is an open-source project that strives to add value to the Bitcoin Cash ecosystem with healthy ambition, but also anchored to reality. For this reason, we want to be close to our users and clients.
 
-Soon we will have our website updated and running. We also have our resources on GitHub, which are open to anyone who feels inclined to participate and collaborate. We encourage not only community members to do so,  but also newcomers, believing that our strength is in diversity and in sharing knowledge under a code of mutual respect and cooperation.
+Soon we will have our website updated and running. We also have our resources on GitHub, which are open to anyone who feels inclined to participate and collaborate. We encourage not only community members to do so, but also newcomers, believing that our strength is in diversity and in sharing knowledge under a code of mutual respect and cooperation.
 
 Our website and read.cash account are the intended channels for official communications and periodic reports, whether financial or technical. We also count with Telegram, Slack and email available to the public, if necessary, do not hesitate to drop us a line. If you are interested in running Knuth, building something cool with it or just give it a try, leave us a message and we will do our best to help you.
 
@@ -306,7 +306,7 @@ Website: [kth.cash](http://kth.cash/)
 Github: [github.com/k-nuth/kth](https://github.com/k-nuth/kth)  
 Email: [info@kth.cash](mailto:info@kth.cash)  
 Telegram: [t.me/knuth_cash](https://t.me/knuth_cash)  
-Read.cash:  [read.cash/@kth](https://read.cash/@kth)  
+Read.cash: [read.cash/@kth](https://read.cash/@kth)  
 Slack: [k-nuth.slack.com](https://k-nuth.slack.com/)  
 Twitter: [@KnuthNode](https://twitter.com/KnuthNode)
 

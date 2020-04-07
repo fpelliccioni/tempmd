@@ -1,7 +1,3 @@
-![LogoAbstrat](http://kth.cash/images/knuth-logo-abstract.png)
-
-# Abstract
-
 Knuth envisions bringing Bitcoin Cash to everyday life. We plan to do so by building a scalable monetary platform that offers one service: decentralized, uncensored electronic cash. We are convinced that the path best suited for that involves simple and lean structures. Knuth stands firmly with that perspective, recognizing that the most powerful catalyst for global adoption is accessibility.
 
 We also want to pave the way for newcomers. We want to help a new generation of developers to create amazing solutions, to take cross-border trade to unprecedented levels. 
