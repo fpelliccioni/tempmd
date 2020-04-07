@@ -220,7 +220,7 @@ In this way, Knuth’s long term plan includes the following proposal:
 9. **Improve libraries and languages’ APIs**
 
    Maintenance and continuous improvement of libraries and APIs is a priority. Although this is continuous work, we would like to be able to dedicate at least 160 hours to it in the next 6 months. Estimated time: 160 hours.
- 
+
 10. **Improve documentation**
 
    Documentation is a fundamental tool for Knuth's exposure and proper use. Although this is also a continuous job, we would like to be able to dedicate at least 80 hours to it in the next 6 months. Estimated time: 80 hours.
